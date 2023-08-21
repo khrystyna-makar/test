@@ -1,5 +1,0 @@
-{{#user}}
-Name: Khrystyna
-Skills: HTML, CSS, JS, React.js
-Email: khrystyna.makar@gmail.com
-{{/user}}
